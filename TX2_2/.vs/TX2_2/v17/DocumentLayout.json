@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SUMMER2024-Ki5\\PRN212\\Baitaptuan2\\TX2_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EC1C-BA76-4425-BAEB-04D7B7CBF0B3}|TX2_2\\TX2_2.csproj|d:\\summer2024-ki5\\prn212\\baitaptuan2\\tx2_2\\tx2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EC1C-BA76-4425-BAEB-04D7B7CBF0B3}|TX2_2\\TX2_2.csproj|solutionrelative:tx2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EC1C-BA76-4425-BAEB-04D7B7CBF0B3}|TX2_2\\TX2_2.csproj|d:\\summer2024-ki5\\prn212\\baitaptuan2\\tx2_2\\tx2_2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EC1C-BA76-4425-BAEB-04D7B7CBF0B3}|TX2_2\\TX2_2.csproj|solutionrelative:tx2_2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EC1C-BA76-4425-BAEB-04D7B7CBF0B3}|TX2_2\\TX2_2.csproj|d:\\summer2024-ki5\\prn212\\baitaptuan2\\tx2_2\\tx2_2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EC1C-BA76-4425-BAEB-04D7B7CBF0B3}|TX2_2\\TX2_2.csproj|solutionrelative:tx2_2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F7EC1C-BA76-4425-BAEB-04D7B7CBF0B3}|TX2_2\\TX2_2.csproj|d:\\summer2024-ki5\\prn212\\baitaptuan2\\tx2_2\\tx2_2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F7EC1C-BA76-4425-BAEB-04D7B7CBF0B3}|TX2_2\\TX2_2.csproj|solutionrelative:tx2_2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\PRN212\\Baitaptuan2\\TX2_2\\TX2_2\\Customer.cs",
+              "RelativeDocumentMoniker": "TX2_2\\Customer.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\PRN212\\Baitaptuan2\\TX2_2\\TX2_2\\Customer.cs",
+              "RelativeToolTip": "TX2_2\\Customer.cs",
+              "ViewState": "AQIAAA4AAABgAAAAAMAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:25:49.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\PRN212\\Baitaptuan2\\TX2_2\\TX2_2\\Employee.cs",
+              "RelativeDocumentMoniker": "TX2_2\\Employee.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\PRN212\\Baitaptuan2\\TX2_2\\TX2_2\\Employee.cs",
+              "RelativeToolTip": "TX2_2\\Employee.cs",
+              "ViewState": "AQIAABUAAADAmZmZmRkfwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:24:53.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\PRN212\\Baitaptuan2\\TX2_2\\TX2_2\\Person.cs",
+              "RelativeDocumentMoniker": "TX2_2\\Person.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\PRN212\\Baitaptuan2\\TX2_2\\TX2_2\\Person.cs",
+              "RelativeToolTip": "TX2_2\\Person.cs",
+              "ViewState": "AQIAACEAAADAZmZmZuYkwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:23:36.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\PRN212\\Baitaptuan2\\TX2_2\\TX2_2\\Program.cs",
+              "RelativeDocumentMoniker": "TX2_2\\Program.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\PRN212\\Baitaptuan2\\TX2_2\\TX2_2\\Program.cs",
+              "RelativeToolTip": "TX2_2\\Program.cs",
+              "ViewState": "AQIAAEEAAACAZmZmZiYlwDEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:21:50.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
